@@ -1,4 +1,4 @@
-# Aiogram 3 New Template (sqlite db)
+# LOtin-krill loyihasini Aiogram 3da 
 
 ### 1. Create virtual environment and install packages
 Windows
